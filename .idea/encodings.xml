@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/micorservice-ProductManagement/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-JwtAutenticator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-ProductManagement/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-UserManagement/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-eureka/src/main/java" charset="UTF-8" />

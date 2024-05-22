@@ -20,7 +20,7 @@
     <module>microservice-eureka</module>
     <module>microservice-config</module>
     <module>microservice-JwtAutenticator</module>
-    <module>micorservice-ProductManagement</module>
+    <module>microservice-ProductManagement</module>
     <module>microservice-UserManagement</module>
   </modules>
 

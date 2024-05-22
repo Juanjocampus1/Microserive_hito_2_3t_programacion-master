@@ -543,3 +543,13 @@ G.idea/sonarlint/issuestore/8/9/8972e34f253c0df860a600cc6e8b27acc7e3595e,7\0\70
 Q.idea/sonarlint/securityhotspotstore/9/6/9604b7c99c7090cf4804483a82fc9dd0490112b3,4\6\46fca88492c9318fcf7a87208099bc459ecf122c
 w
 G.idea/sonarlint/issuestore/1/a/1a4c4355609f1f9fee0862b9ad8df5670522967b,f\a\fa0cc7b69105eeadc7077c2065e24c8fa2002c13
+V
+&microservice-ProductManagement/pom.xml,8\c\8cf85a50ba681257729aee76c3f9f4d1a8eeccdb
+ù
+mmicroservice-ProductManagement/src/main/java/com/empresa/microserviceProductManagement/Entities/Products.java,5\8\58edc6fc35cbf911fdb0d71f0fb65853956171f1
+®
+xmicroservice-ProductManagement/src/main/java/com/empresa/microserviceProductManagement/Controller/ProductController.java,a\f\af485fb6f5edc655f83198f2eb77ea95bc07e40a
+¢
+rmicroservice-ProductManagement/src/main/java/com/empresa/microserviceProductManagement/Service/ProductService.java,c\8\c8e4e06f446866a38214b6083d4f9358a2e47e22
+©
+ymicroservice-ProductManagement/src/main/java/com/empresa/microserviceProductManagement/Repository/ProductsRepository.java,4\4\443e32fc03fa84088d33683ae70dfc733e9d1c6a
