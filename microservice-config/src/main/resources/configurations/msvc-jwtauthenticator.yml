@@ -1,0 +1,32 @@
+server:
+  port: 9090
+
+spring:
+  application:
+      name: msvc-jwtauthenticator
+  datasource:
+    url: jdbc:mysql://localhost:3306/api_auth_jwt
+    username: root
+    password: curso
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: create
+
+# JWT
+jwt:
+  secret:
+    key: 2zzSWKEwFPJmjJvXjvg03xqmwewO5hHFKZBTuDkpkoU=
+  time:
+    expiration: 86400000
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
