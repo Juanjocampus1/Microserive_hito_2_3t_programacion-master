@@ -1,0 +1,10 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÞðÎïþÿÿÿÿJ$6ec10b5f-a4c8-4f93-96ae-4e5df499dae0
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$62586964-c77b-4450-bc5a-aacf3952cc66
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$d90bc0fb-6246-4418-b934-09d0ed97bda1
+r
+java:S6437$"6Revoke and change this password, as it is compromised.(“É§ßJ$48af1b5e-aa6b-4796-8c9e-2073e92df6b4
+r
+java:S6437-"6Revoke and change this password, as it is compromised.(“É§ßJ$93e075d4-289e-4dd1-8cb1-687fe3182f52

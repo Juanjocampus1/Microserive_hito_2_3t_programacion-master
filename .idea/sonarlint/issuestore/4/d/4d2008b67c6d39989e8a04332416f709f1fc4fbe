@@ -1,0 +1,18 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚Ï²øÿÿÿÿJ$9b2c9b64-a95a-4f06-b6ce-cc2d47572c2b
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f2100133-3a5b-44cc-80d6-be1bfa1584cd
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$71d53e10-b056-4996-be81-c1a122986e08
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$38e9dd6c-0135-4bbf-bfd2-55a5adc7a6b2
+
+java:S3305"\Inject this field value directly into "authenticationManager", the only method that uses it.(Ä‹¹«úÿÿÿÿJ$26bde1c5-63d2-4388-9c3b-9bfa1aa91ac0
+›
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(¹Î£µşÿÿÿÿJ$ea82c4cb-2f70-4e57-bd53-720015f3f8b3
+›
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(‘Ò±êùÿÿÿÿJ$9a0ca62d-a605-4c0b-945c-be95a341f740
+~
+java:S1874"BRemove this use of "EnableGlobalMethodSecurity"; it is deprecated.(ö­ê×J$e987d119-a1e0-442a-b888-795bc23d8681
+h
+java:S1602/",Remove useless curly braces around statement(úÔ…J$d2b884e1-6eb5-4e3e-8beb-aa855879e9e1

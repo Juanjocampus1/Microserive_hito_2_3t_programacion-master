@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûµÓêJ$d65f2d71-8a47-42e6-bbba-26e64c8cba35
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$f6d24946-3f08-4e80-8525-8342ad8cc762
+‡
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿJ$a3833dfd-0f2b-4b15-8848-1af2897a0a0f
