@@ -1,9 +1,11 @@
 
-†	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$f44c9f60-6c71-4366-a2cb-0c60df723e9b
-†	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$19fe2c43-2b68-4907-af06-7f7c48eb7799
-†	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$a5396472-b89e-42c9-85a5-42c5e39c6572
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÓ¸íJ$46fafbb8-1677-4f7f-b945-7d1d13a6f68f
+†	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$084dd767-bc3c-4a26-9ab6-9b63158fe27f
+†	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$63c7935e-3139-4b79-8d38-1673d1f66b56
+†	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$78c33783-550c-4396-ace6-77989b577262
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÓ¸íJ$83f7615d-06e5-4fc8-bfac-134b9dcc52e7
 €
-java:S2147/"DCombine this catch with the one at line 45, which has the same body.(Š«ôÃJ$a03e5bc6-4a14-4cc1-b878-f1c87c319cd8
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(Š«ôÃJ$5162b064-b8e7-4e59-80c7-609876c171a0
 €
-java:S21471"DCombine this catch with the one at line 47, which has the same body.(ï­£ÄJ$7c525b0f-e5bc-4ed4-83c8-23e3018ca1e4
+java:S21471"DCombine this catch with the one at line 47, which has the same body.(ï­£ÄJ$f0493779-e2f9-4cd0-869f-6b3758c823a7
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8§à–ú1J$5dd361af-e9fb-4b87-98cd-ea7804d61003

@@ -1,18 +1,18 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥º¤ıÿÿÿÿJ$83c12038-f5c6-4fa1-b85f-7d7d30814e5b
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥º¤ıÿÿÿÿJ$eefb9814-2c46-40b7-9d50-f83ce0f5b24b
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$e20ae22a-22a1-41c6-877a-b7f9ad6329ee
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f2cbb3d9-8ccd-45e8-9ce4-709b6270d043
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$42c61b9d-a9dc-4995-a2d3-555d782f7e9e
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f703f92d-74db-493a-965b-d77eadac8cf8
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$1ce8757b-ebb2-4c4b-ae95-7e25aa3b5f44
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$db86a089-c185-441b-a3c7-bdd2829e4b7e
 ›
-java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(‘Ò±êùÿÿÿÿJ$a3b929e6-0fa6-4da1-98a6-5f1ce1463831
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(‘Ò±êùÿÿÿÿJ$5f69f3a4-8e20-4fb2-96e0-acfc6e4582d0
 ›
-java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(¹Î£µşÿÿÿÿJ$bafca66f-b58c-4aea-a875-be834f18c999
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(¹Î£µşÿÿÿÿJ$898ffe69-7775-4e5d-83c6-1944a738c481
 
-java:S3305"\Inject this field value directly into "authenticationManager", the only method that uses it.(Ä‹¹«úÿÿÿÿJ$00310a9b-8835-48aa-9a64-bd8d5629fcd2
+java:S3305"\Inject this field value directly into "authenticationManager", the only method that uses it.(Ä‹¹«úÿÿÿÿJ$27df1d60-c5f9-4fe7-a8b0-d4f942a57f4d
 ~
-java:S1874"BRemove this use of "EnableGlobalMethodSecurity"; it is deprecated.(ö­ê×J$dcc71509-6e78-4769-a9b4-ef872f5cb37d
+java:S1874"BRemove this use of "EnableGlobalMethodSecurity"; it is deprecated.(ö­ê×J$49d96146-9ab3-462c-9b31-d2eb547bcf02
 h
-java:S1602/",Remove useless curly braces around statement(úÔ…J$88c4f903-2cbe-44bd-a9bf-cbed2634737f
+java:S1602/",Remove useless curly braces around statement(úÔ…J$5bafefbb-4c61-4bf7-a64d-9be1b6c7051f

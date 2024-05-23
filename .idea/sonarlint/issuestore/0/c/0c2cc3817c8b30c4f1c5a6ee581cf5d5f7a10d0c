@@ -1,8 +1,10 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õåùÏûÿÿÿÿJ$d3783ade-1f33-4251-92b8-2d718f1dea4c
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õåùÏûÿÿÿÿJ$a928cd6c-f9b1-4e7f-be07-0aee84ab79e9
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$834aafd0-8475-4ec8-a4e4-c3eaf6b9e931
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c1b6323c-dbca-4de7-84e1-87173a6b78b3
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$5702fbf3-45fd-43df-8fd0-d0d453d181f1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$d4f1534a-8d58-4c5d-bc1b-ec54582f7ea5
 b
-java:S14521"&Remove usage of generic wildcard type.(ôÿ¿J$264cd933-f8cd-4bfb-b6ae-105ae4538339
+java:S14521"&Remove usage of generic wildcard type.(ôÿ¿J$3cab0683-5a8d-4fc1-a7f9-f704d38a5f5d
+„
+java:S1128"<Remove this unused import 'java.net.PasswordAuthentication'.(µßºåûÿÿÿÿ8¬ã–ú1J$badf8b66-511b-456e-8dee-77db9bfa189e
