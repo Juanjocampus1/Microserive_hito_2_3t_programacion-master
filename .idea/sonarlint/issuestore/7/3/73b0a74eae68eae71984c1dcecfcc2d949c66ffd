@@ -1,0 +1,9 @@
+
+†	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$f44c9f60-6c71-4366-a2cb-0c60df723e9b
+†	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$19fe2c43-2b68-4907-af06-7f7c48eb7799
+†	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$a5396472-b89e-42c9-85a5-42c5e39c6572
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýÓ¸íJ$46fafbb8-1677-4f7f-b945-7d1d13a6f68f
+€
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(Š«ôÃJ$a03e5bc6-4a14-4cc1-b878-f1c87c319cd8
+€
+java:S21471"DCombine this catch with the one at line 47, which has the same body.(ï­£ÄJ$7c525b0f-e5bc-4ed4-83c8-23e3018ca1e4

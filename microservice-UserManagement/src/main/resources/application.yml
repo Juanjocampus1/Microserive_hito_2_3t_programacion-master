@@ -1,27 +1,6 @@
-server:
-  port: 9090
 
 spring:
   config:
     import: optional:configserver:http://localhost:8888
   application:
     name: msvc-usermanagement
-  datasource:
-    url: jdbc:mysql://localhost:3306/api_auth_jwt
-    username: root
-    password: curso
-    driver-class-name: com.mysql.cj.jdbc.Driver
-  jpa:
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQL8Dialect
-    show-sql: true
-    hibernate:
-      ddl-auto: create
-
-eureka:
-  instance:
-    hostname: localhost
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka

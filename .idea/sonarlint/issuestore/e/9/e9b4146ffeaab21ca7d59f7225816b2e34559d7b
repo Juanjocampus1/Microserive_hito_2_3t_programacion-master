@@ -1,11 +1,0 @@
-
-†	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$25040ead-bcc0-47d7-a16f-591e5d7ef371
-†	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$c6e11d3d-ca15-4710-9c84-89609fac3fac
-†	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$37934a86-012e-49a6-b226-f6a6e7d135b4
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ°¥J$a7994ae1-3e40-40af-8987-c1b4ab7792b5
-€
-java:S2147/"DCombine this catch with the one at line 45, which has the same body.(Š«ôÃJ$14fc4715-a247-4f6f-ae36-5bdc0c70fbf7
-€
-java:S21471"DCombine this catch with the one at line 47, which has the same body.(ï­£ÄJ$fb8e88da-4bb0-4b20-897d-e07f89def099
-”
-java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸ÎùÿÿÿÿJ$4ce97737-1b8e-4175-872d-99b89556d0c3
